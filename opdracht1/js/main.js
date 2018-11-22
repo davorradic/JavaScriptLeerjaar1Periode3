@@ -1,4 +1,10 @@
+/* Theorie uit boek: hoofdstuk 1 */
+
 var Pa$$word = 'zaad'
+var nummer = 2;
+var string = "1";
+console.log(nummer + string); //string plus string. Mogelijk?
+
 console.log(Pa$$word);
 
 partnersPr%%ogramma = www.zadenonline.nl
