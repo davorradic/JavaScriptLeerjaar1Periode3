@@ -1,13 +1,13 @@
 /* Theorie uit boek: hoofdstuk 1 */
-
-var Pa$$word = 'zaad'
+console.log("test");
+var Pa$$word = 'plantenzaad'
 var nummer = 2;
 var string = "1";
 console.log(nummer + string); //string plus string. Mogelijk?
 
 console.log(Pa$$word);
 
-partnersPr%%ogramma = www.zadenonline.nl
+partnersProgramma = www.zadenonline.nl
 console.log(partnersPr%%ogramma);
 //er zijn meerdere webshops online met partners programma.
 partnersProgramma = "www.zadenonline.nl";
