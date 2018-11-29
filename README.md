@@ -3,12 +3,15 @@
 ## Hoe start je?
 
 ### Downloaden project
-Download project op je machine. Hiervoor heb je twee opties:
+Download project op je machine. Hiervoor heb je drie opties:
 1. Eerste optie:
-```git pull https://github.com/davorradic/JavaScriptLeerjaar1Periode3.git```
+Download zip bestand van deze repository
 
 2. Tweede optie:
-Download zip bestand van deze reposotory
+Download via GitHub Desktop versie
+
+3. Derde optie:
+`git pull https://github.com/davorradic/JavaScriptLeerjaar1Periode3.git`
 
 Van elk map Opdracht.. open index.html in je browser en haal alle bugs eruit (maak gebruik van inpect element).
 
