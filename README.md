@@ -13,13 +13,16 @@ Download zip bestand van deze reposotory
 Van elk map Opdracht.. open index.html in je browser en haal alle bugs eruit (maak gebruik van inpect element).
 
 ### Opdracht 1
-Statments, gegevenstypen, variabelen
+1. Bestudeer uit boek hoofdstuk 1 "Statments, gegevenstypen, variabelen"
+2. Open map opdracht1 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 2
-Operatoren
+1. Bestudeer uit boek hoofdstuk 2 "Operatoren"
+2. Open map opdracht2 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 3
-Functies Arrays Objects
+1. Bestudeer uit boek hoofdstuk 2 "Functies Arrays Objects"
+2. Open map opdracht3 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 4
 Voorwaardelijke statments en programmaloop
