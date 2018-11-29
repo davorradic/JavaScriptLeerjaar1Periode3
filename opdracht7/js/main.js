@@ -1,5 +1,12 @@
 /* opdracht 2 */
 
+
+/*TIP: Zoekmachine optimalisatie houdt van externe links naar je website,
+maar niet als je veel links naar andere websites geeft :(
+Kijk naar beslist.nl, kijk m.b.v. inspect element naar externe links (buiten beslist.nl).
+Zie je ergens <a href="link naar webshop">link naar webshop</a>?*/
+
+
 /* Operators
 
   * */

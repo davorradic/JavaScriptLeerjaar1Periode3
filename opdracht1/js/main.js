@@ -1,4 +1,6 @@
-/* Theorie uit boek: hoofdstuk 1 */
+/* Bestudeer theorie uit boek: hoofdstuk 1 en probeer als eerst alle bugs uit te halen.
+Daarna maak onderstaande opdrachten.
+*/
 console.log("test");
 var Pa$$word = 'plantenzaad'
 var nummer = 2;
@@ -7,7 +9,7 @@ console.log(nummer + string); //string plus string. Mogelijk?
 
 console.log(Pa$$word);
 
-partnersProgramma = www.zadenonline.nl
+partnersProgramma = 'www.zadenonline.nl
 console.log(partnersPr%%ogramma);
 //er zijn meerdere webshops online met partners programma.
 partnersProgramma = "www.zadenonline.nl";
@@ -30,9 +32,9 @@ console.log("tracking_code is: '" + tracking_code + "' of 11233 of 11234 of iets
 //print elk variabele uit onder h3 kopje "Project Details" in een li
 document.getElementById("zadenonline-nl").innerHTML = "zadenonline.nl";
 
-/* Opdracht2: meld je aan voor elk gevonden affliate programma en zoek je affiliate link
-als je hebt gevonden plaats het op het zlefde manier naast shop je affliate link in een
+/* Opdracht2: meld je aan voor elk gevonden affliate programma en zoek je affiliate link,
+als je hebt gevonden plaats het op het zelfde manier naast shop je affliate link in.
 */
 
-/* Opdracht3: Add logo van een bedrijf naast link
+/* Opdracht3: Add logo van bedrijf link naast link
 */
