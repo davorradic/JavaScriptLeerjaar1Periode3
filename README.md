@@ -1,9 +1,5 @@
 # JavaScript Leerjaar 1 Periode 3
 
-## Introductie van volgende project
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/30Ilz7zJR4w/0.jpg)](http://www.youtube.com/watch?v=30Ilz7zJR4w)
-
 ## Hoe start je?
 
 ### Downloaden project
