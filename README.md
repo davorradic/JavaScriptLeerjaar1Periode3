@@ -16,7 +16,7 @@ Download via GitHub Desktop versie
 Van elk map Opdracht.. open index.html in je browser en haal alle bugs eruit (maak gebruik van inpect element).
 
 ### Opdracht 1
-1. Bestudeer uit boek hoofdstuk 1 "Statments, gegevenstypen, variabelen"
+1. Bestudeer uit boek hoofdstuk 1 "Statements, gegevenstypen, variabelen"
 2. Open map opdracht1 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 2
@@ -28,12 +28,20 @@ Van elk map Opdracht.. open index.html in je browser en haal alle bugs eruit (ma
 2. Open map opdracht3 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 4
-Voorwaardelijke statments en programmaloop
+1. Bestudeer uit boek hoofdstuk 2 "Voorwaardelijke statments en programmaloop"
+2. Open map opdracht4 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 5
-Javascript events en events handelars
+1. Bestudeer uit boek hoofdstuk 2 "Javascript events en events handelars"
+2. Open map opdracht5 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 6
+1. Bestudeer uit boek hoofdstuk 2 "Werken met DOM"
+2. Open map opdracht5 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
+
+### Opdracht 7
+Website testen in alle mogelijke browsers
+
 Pull JSON file van FireBase en zet het in de website
 
 #### MicroBit
