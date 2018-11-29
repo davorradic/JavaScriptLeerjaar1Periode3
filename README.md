@@ -40,7 +40,7 @@ Van elk map Opdracht.. open index.html in je browser en haal alle bugs eruit (ma
 2. Open map opdracht5 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 7
-Website testen in alle mogelijke browsers
+Website testen in alle mogelijke (FireFox, Chrome, Internet explorer, Internet edge, mobile) browsers
 
 Pull JSON file van FireBase en zet het in de website
 
