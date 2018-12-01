@@ -1,5 +1,6 @@
 /* opdracht 3
-Bestudeer hoofdstuk 4 Functies Arrays Objects */
+Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
+*/
 
 /*
 Casus: Je hebt 5 onderdelen bij een product:
@@ -23,7 +24,7 @@ https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
                 'externlink'
               ]
 Opdracht 2:
-Plaats alles uit array naar pagina rechts van de product.
+Plaats alles uit array naar pagina rechts van de product photo.
 zie voorbeeld:
 https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
 
