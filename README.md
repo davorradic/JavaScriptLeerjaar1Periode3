@@ -13,7 +13,7 @@ Download via GitHub Desktop versie
 3. Derde optie:
 `git pull https://github.com/davorradic/JavaScriptLeerjaar1Periode3.git`
 
-Van elk map Opdracht.. open index.html in je browser en haal alle bugs eruit (maak gebruik van inpect element).
+Van elk map OpdrachtX (opdracht1, opdracht2, opdracht3...) open index.html in je browser (Chrome, Firefox, Opera...) en haal alle bugs eruit (maak gebruik van inpect element).
 
 ### Opdracht 1
 1. Bestudeer uit boek hoofdstuk 1 "Statements, gegevenstypen, variabelen"
