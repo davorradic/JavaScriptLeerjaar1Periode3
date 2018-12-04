@@ -1,43 +1,97 @@
-/* opdracht 2 */
+/* opdracht 6 */
 
-
-/*TIP: Zoekmachine optimalisatie houdt van externe links naar je website,
-maar niet als je veel links naar andere websites geeft :(
-Kijk naar beslist.nl, kijk m.b.v. inspect element naar externe links (buiten beslist.nl).
-Zie je ergens <a href="link naar webshop">link naar webshop</a>?*/
-
-
-/* Operators
+/* Voorwaardelijke statments en programmaloop
 
   * */
-var vooraad_zaden = "5278";
-var verkocht_zaden = "3";
-var prijs_per_zaad = 3; //prijzen zijn in euros
-var affiliate_precentage_per_10_zaden = 5;
-var affiliate_precentage_per_100_zaden = 10;
-var affiliate_precentage_per_200_zaden = 15;
-var verzendkosten = 5;
-var ideal_kosten = 1;
 
-//ga na alle console logs en check of het klopt
-console.log(vooraad_zaden - 1); //is de resultaat als je zou verwachten?
-console.log(vooraad_zaden + 14); //is de resultaat als je zou verwachten?
-console.log(verkocht_zaden > vooraad_zaden); //is de resultaat als je zou verwachten?
-console.log(vooraad_zaden == prijs_per_zaad); //is de resultaat als je zou verwachten?
-console.log(vooraad_zaden === prijs_per_zaad); //is de resultaat als je zou verwachten?
-console.log(3 === 3); //is de resultaat als je zou verwachten?
-console.log("4" === 4); //is de resultaat als je zou verwachten?
+  /*
+  Casus: Je hebt object
+  Json bestand heeft alle benodigde informaties om volgende
+  te gaan maken:
+  https://www.kwekersvergelijk.nl/product/slim-kweken-maxi-kweekbak/
 
-/* Opdracht 1
-  Bereken:
-  * hoeveel geld maak je als je 5 zaden had verkocht
-  * hoeveel zit nu in vooraad
-  * Hoeveel geld heeft webshop eigenaar gemaakt als je alle kosten aftrekt
 
-  ** alles in console.log en in html laten zien.
   */
 
 
-/* Opdracht 2
-  Doe het zelfde als je 13 zaden had verkocht
-  */
+  var data = {
+    "products":
+      {
+        "product":
+        {
+          "product_id"              : 1,
+          "category"                : "kweekkast",
+          "product_name"            : "Slim kweken – Maxi kweekbak",
+          "affiliate_details"       : {
+                                        "1" :
+                                        {
+                                          "product_owner_logo_url"  : "images/Warentuin-logo.png",
+                                          "product_price"           : "15,89",
+                                          "shipping_costs"          : "false",
+                                          "delivering"              : "1",
+                                          "affiliate_link"          : "https://www.warentuin.nl/royal-well-maxi-kweekbak-40-liter-zwart?aff=12345"
+                                        },
+                                        "2" :
+                                        {
+                                          "product_owner_logo_url"  : "images/tuinexpress_logo.jpg",
+                                          "product_price"           : "15,95",
+                                          "shipping_costs"          : "4,95",
+                                          "delivering"              : "1",
+                                          "affiliate_link"          : "https://www.tuinexpress.nl/zaaikist-maxi?aff=12345"
+                                        },
+                                        "3" :
+                                        {
+                                          "product_owner_logo_url"  : "images/nubuiten-logo.png",
+                                          "product_price"           : "16,59",
+                                          "shipping_costs"          : "false",
+                                          "delivering"              : "8",
+                                          "affiliate_link"          : "https://nubuiten.nl/kweekbak-40-liter?aff=12345"
+                                        },
+                                        "4" :
+                                        {
+                                          "product_owner_logo_url"  : "images/logo-kas.png",
+                                          "product_price"           : "16,59",
+                                          "shipping_costs"          : "false",
+                                          "delivering"              : "5",
+                                          "affiliate_link"          : "https://www.kas-expert.nl/slim-kweken-maxi-kweekbak/111219?aff=12345"
+                                        }
+          }
+
+        }
+
+      }
+
+  };
+  //zie hoe data in console.log eruit ziet.
+  console.log(data);
+  //zie hoe data.products in console.log eruit ziet.
+  console.log(data.products);
+  //zie hoe data.products.product in console.log eruit ziet.
+  console.log(data.products.product);
+  //zie hoe data.products.product.affiliate_details in console.log eruit ziet.
+  console.log(data.products.product.affiliate_details);
+
+  //nu willen we datas doorlopen om inf van affiliate informaties uit te printen
+  var affiliate_data = data.products.product.affiliate_details;
+  var print_data = '';
+  for(var aff in data.products.product.affiliate_details ){
+    console.log(affiliate_data[aff].product_owner_logo_url);
+    console.log(affiliate_data[aff].product_price);
+    console.log(affiliate_data[aff].shipping_costs);
+    console.log(affiliate_data[aff].affiliate_link);
+    //Nu is het tijd om alle info die we hier hebben in
+    //tabel te plaatsen
+    //Stap 1: plaats alle data eerst in variabele print_data
+    print_data += '<tr>';
+    print_data += '<td><img src="' + affiliate_data[aff].product_owner_logo_url + '" /></td>';
+    print_data += '<td>' + affiliate_data[aff].product_price + '</td>';
+    print_data += '<td>' + affiliate_data[aff].delivering + '</td>';
+    print_data += '<td>' + affiliate_data[aff].shipping_costs + '</td>';
+    print_data += '<td>' + affiliate_data[aff].affiliate_link + '</td>';
+    print_data += '</tr>';
+  }
+  console.log(print_data);
+  //nu hebben we html, nu nog bij de table plakken, zie voorbeeld
+  // op https://stackoverflow.com/questions/584751/inserting-html-into-a-div
+
+  //document.getElementById('affliate_results').innerHTML = print_data;

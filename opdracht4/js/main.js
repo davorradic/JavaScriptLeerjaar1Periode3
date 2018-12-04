@@ -3,7 +3,7 @@ Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
 */
 
 /*
-CASUS van vorige week:
+
 Casus: Je hebt 5 onderdelen bij een product:
 1. Logo van bedrijf (je affiliate partner)
 2. Prijs van artikel
@@ -27,7 +27,7 @@ https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
               }
 
 Opdracht 2:
-Plaats alles uit Object naar pagina rechts van de product photo.
+Plaats alles uit Object op pagina rechts van de product photo.
 zie voorbeeld:
 https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
 

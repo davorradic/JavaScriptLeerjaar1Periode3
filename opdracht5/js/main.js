@@ -3,7 +3,6 @@ Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
 */
 
 /*
-CASUS van vorige week:
 Casus: Je hebt 5 onderdelen bij een product:
 1. Logo van bedrijf (je affiliate partner)
 2. Prijs van artikel
@@ -18,16 +17,16 @@ https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
  Zet in een OBJECT alle informaties die boven genoemd zijn (bedrijfslogo, prijs, levertijd, verzendkosten, link naar partner).
  Voorbeeld:
  var product = {
-                product_id: '1',
-                product_name : 'Pitrus Juncus effusus',
+                product_id            : '1',
+                product_name          : 'Pitrus Juncus effusus',
                 product_owner_log_url : 'https://www.kwekersvergelijk.nl/wp-content/uploads/2018/08/logo-tuinplant-e1535733140981.png',
-                product_price : '31',
-                shipping_costs : 'gratis',
-                affiliate_link : 'externlink'
+                product_price         : '31',
+                shipping_costs        : 'gratis',
+                affiliate_link        : 'externlink'
               }
 
 Opdracht 2:
-Plaats alles uit Object naar pagina rechts van de product photo.
+Plaats alles uit Object op de pagina rechts van de product photo.
 zie voorbeeld:
 https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
 
