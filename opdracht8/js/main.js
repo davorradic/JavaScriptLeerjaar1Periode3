@@ -69,24 +69,23 @@
       }
 
   };
-
   //zie hoe data in console.log eruit ziet.
-  //console.log(data);
+  console.log(data);
   //zie hoe data.products in console.log eruit ziet.
-  //console.log(data.products);
+  console.log(data.products);
   //zie hoe data.products.product in console.log eruit ziet.
-  //console.log(data.products.product);
+  console.log(data.products.product);
   //zie hoe data.products.product.affiliate_details in console.log eruit ziet.
-  //console.log(data.products.product.affiliate_details);
+  console.log(data.products.product.affiliate_details);
 
   //nu willen we datas doorlopen om inf van affiliate informaties uit te printen
   var affiliate_data = data.products.product.affiliate_details;
   var print_data = '';
   for(var aff in data.products.product.affiliate_details ){
-    //console.log(affiliate_data[aff].product_owner_logo_url);
-    //console.log(affiliate_data[aff].product_price);
-    //console.log(affiliate_data[aff].shipping_costs);
-    //console.log(affiliate_data[aff].affiliate_link);
+    console.log(affiliate_data[aff].product_owner_logo_url);
+    console.log(affiliate_data[aff].product_price);
+    console.log(affiliate_data[aff].shipping_costs);
+    console.log(affiliate_data[aff].affiliate_link);
     //Nu is het tijd om alle info die we hier hebben in
     //tabel te plaatsen
     //Stap 1: plaats alle data eerst in variabele print_data
@@ -97,30 +96,17 @@
     //opdracht: in plaats van delivering false te printen, laat zien onbekend.
     //google naar inline if else statments
     print_data += '<td>' + affiliate_data[aff].shipping_costs + '</td>';
-    print_data += '<td>' + affiliate_data[aff].affiliate_link + '</td>';
+    print_data += '<td><span class="link" data="' + affiliate_data[aff].affiliate_link + '" onclick="hidelinksfromgoogle(\'' + affiliate_data[aff].affiliate_link + '\');return false;">bestel nu</span></td>';
     print_data += '</tr>';
   }
-  //console.log(print_data);
+  console.log(print_data);
   //nu hebben we html, nu nog bij de table plakken, zie voorbeeld
   // op https://stackoverflow.com/questions/584751/inserting-html-into-a-div
 
   document.getElementById('affliate_results').innerHTML = print_data;
 
-  var related_products = {
-    "1" : {
-      "ahref"     : "grond-kopen.html",
-      "img_src"   : "images/grond.png"
-    },
-    "2" : {
-      "ahref"     : "grond-kopen.html",
-      "img_src"   : "images/grond.png"
-    },
-    "3" : {
-      "ahref"     : "grond-kopen.html",
-      "img_src"   : "images/grond.png"
-    },
-    "4" : {
-      "ahref"     : "grond-kopen.html",
-      "img_src"   : "images/grond.png"
-    },
-  };
+
+  function hidelinksfromgoogle(affiliate_link){
+    console.log(affiliate_link);
+    window.open(affiliate_link, '_self');
+  }
