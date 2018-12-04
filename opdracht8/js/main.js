@@ -99,7 +99,7 @@
     print_data += '<td><span class="link" data="' + affiliate_data[aff].affiliate_link + '" onclick="hidelinksfromgoogle(\'' + affiliate_data[aff].affiliate_link + '\');return false;">bestel nu</span></td>';
     print_data += '</tr>';
   }
-  console.log(print_data);
+  //console.log(print_data);
   //nu hebben we html, nu nog bij de table plakken, zie voorbeeld
   // op https://stackoverflow.com/questions/584751/inserting-html-into-a-div
 
