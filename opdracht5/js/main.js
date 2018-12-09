@@ -17,11 +17,11 @@ https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
  Zet in een OBJECT alle informaties die boven genoemd zijn (bedrijfslogo, prijs, levertijd, verzendkosten, link naar partner).
  Voorbeeld:
  var product = {
-                product_id            : '1',
-                product_name          : 'Pitrus Juncus effusus',
+                product_id            : '3',
+                product_name          : 'CBD plantzaad',
                 product_owner_log_url : 'https://www.kwekersvergelijk.nl/wp-content/uploads/2018/08/logo-tuinplant-e1535733140981.png',
-                product_price         : '31',
-                shipping_costs        : 'gratis',
+                product_price         : '21',
+                shipping_costs        : '4',
                 affiliate_link        : 'externlink'
               }
 
