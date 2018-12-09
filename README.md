@@ -44,16 +44,18 @@ Website testen in alle mogelijke (FireFox, Chrome, Internet explorer, Internet e
 
 Pull JSON file van FireBase en zet het in de website
 
-#### MicroBit
-Acties:
--
-
-### Opdracht 7
-
 ### Opdracht 8
 
 ### Project week
+CASUS:
+Duurzaamheid is de topic van onze tijd. Bio producten worden op prijs gesteld en mensen zijn bereid om meer uit te geven. Afgelopen jaren zien we trend die expansief groeit (zie google trends). Er is een tak van BIO niche die we zien snel groeien. IKEA heeft hierop al gespeeld, maar er is genoeg vraag om ernaast producten te gaan producten zoals pbio planten zaden.
+Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen maken is het volgende: een vergelijkingswebsite op gebied van binnen kweken en alles wat erbij hoort. 
 
+Mensen houden van mening van mensen die product al hebben gekocht en gebruikt (denk hierbij aan tweakers, amazon). Hier op willen we op in spelen. We gaan zelf een plant laten groeien en we gaan met behulp van MicroBit optimalisatie zelf datas opslaan, zoals: temperatuur, grondvochtigheid, licht.
+
+Aan de studenten van Media Design opdracht: Maak responsief design van vergelijkingswebsite. 
+
+Aan de studenten van Applicatie Ontwikkeling: Je ontvangt design van media design en zet het om naar de codes zodat je html & CSS & Javascript  
 #### MicroBit introductie
 Acties:
 - maak groepen van twee
