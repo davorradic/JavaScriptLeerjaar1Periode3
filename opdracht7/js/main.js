@@ -1,4 +1,4 @@
-/* opdracht 6 */
+/* opdracht 7 */
 
 /* Voorwaardelijke statments en programmaloop
 
