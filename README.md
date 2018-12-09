@@ -24,7 +24,7 @@ Van elk map OpdrachtX (opdracht1, opdracht2, opdracht3...) open index.html in je
 2. Open map opdracht2 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 3
-1. Bestudeer uit boek hoofdstuk 2 "Functies Arrays Objects"
+1. Bestudeer uit boek hoofdstuk 2 "Functies Arrays Objects" + Hoofdstuk 7 manipulating DOM
 2. Open map opdracht3 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 4
