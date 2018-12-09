@@ -22,7 +22,7 @@ https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
                 product_owner_log_url : 'https://www.kwekersvergelijk.nl/wp-content/uploads/2018/08/logo-tuinplant-e1535733140981.png',
                 product_price         : '21',
                 shipping_costs        : '4',
-                affiliate_link        : 'externlink'
+                affiliate_link        : 'https://binnenkweken.nl'
               }
 
 Opdracht 2:
