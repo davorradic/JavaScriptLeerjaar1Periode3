@@ -16,8 +16,8 @@
   Stap 2:
   Loop door affiliate producten heen
   Stap 3:
-  Plaats alle informaties van affiliate_details in html (voorbeeld: https://www.kwekersvergelijk.nl/product/slim-kweken-maxi-kweekbak/)
-
+  Plaats alle informaties van affiliate_details (links) in html (voorbeeld: https://www.kwekersvergelijk.nl/product/slim-kweken-maxi-kweekbak/)
+  Step 4: Maak door middel van onclick function "hidelinksfromgoogle" en open link in de nieuw browser.
   */
 
 
