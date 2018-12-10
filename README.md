@@ -105,11 +105,11 @@ Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen
 Onderdeel van vergelijkingswebsite: Mensen houden van mening van mensen die product al hebben gekocht en gebruikt (denk hierbij aan tweakers, amazon). Hier op willen we op in spelen en we willen het in de website verwerkt hebben. 
 
 ##### Eigen review maken: 
-Bedrijf "hello people planet profit" heeft al contact gelegd met Radboud Universiteit Nijmegen en ze zijn voorberied om jullie te helpen als er vragen zijn neem contact met Davor Radic d.radic@roc-nijmegen.nl 
+Bedrijf "hello people planet profit" heeft al contact gelegd met Radboud Universiteit Nijmegen en ze zijn voorberied om jullie te helpen als er vragen zijn neem contact met Davor Radic d.radic@roc-nijmegen.nl (Dit is echt en niet fictief)
 Bedrijf wil geholpen worden bij onderzoek wat ze nodig hebben om mensen thuis te helpen bij het groeien van hun planten. Bedrijf wil niet alles handmatig doen en daarom hebben ze bedacht om MicroBit te gaan gebruiken en groei te optimaliseren om zo min mogelijk zelf te gaan doen. 
 
 Stap 1:
-We kopen een zaad van een bepaald merk en we gaan kijken hoe we plant met behulp van MicroBit kunnen optimale groei kunnen geven. Met MicroBit kunnen we volgende meten: temperatuur, grondvochtigheid, licht. Aan de hand van sensoren van grondvochtigheid kunnen we bepalen wanneer water kan toegevoegd worden. Dit gaan we alles loggen en uiteindelijk platsen op de website als bewijs voor kopers of het wel of niet heeft gewerkt.
+We kopen een plantzaad van een bepaald merk en we gaan kijken hoe we plant met behulp van MicroBit kunnen optimale groei kunnen geven. Met MicroBit kunnen we volgende meten: temperatuur, grondvochtigheid, licht. Aan de hand van sensoren van grondvochtigheid kunnen we bepalen wanneer water kan toegevoegd worden. Dit gaan we alles loggen en uiteindelijk platsen op de website als bewijs voor kopers of het wel of niet heeft gewerkt.
 
 Stap 2:
 Aan alle studenten: Heb je betere idee, deel met je team en opdrachtgever. 
