@@ -83,8 +83,7 @@ Activiteiten week 8
 1.	Bestudeer hoofdstuk 5 voorwaardelijke statments en programmaloop + Hoofdstuk 7 manipulating DOM
 2.	Open map opdracht8 en lees casus in de bestand main.js. 
 
-### Opdracht 9 _PROJECT_WEEK 
-Week 9
+### Opdracht 9 _PROJECT_WEEK Week 9
 
 > “De ontwikkelaar levert als beroepsresultaat een goed werkende applicatie, media-uiting of game(onderdeel) op, welke aan alle met de opdrachtgever overeengekomen eisen voldoet.”
 [SBB Kwalificatie dossier Applicatie- en mediaontwikkelaar](https://kwalificaties.s-bb.nl/Details/Index/2883?type=kwalificatie&item_id=1008212 "KD - AO")
@@ -95,7 +94,7 @@ Activiteiten week 9
 1.	Open map Opdracht9_PROJECT_WEEK Bestudeer casus en maak opdracht in groepjes van min 2 en max 4 studenten.
 2.	Presentatie van de project.
 
-CASUS:
+#### CASUS:
 Duurzaamheid is de topic van onze tijd. Bio producten worden op prijs gesteld en mensen zijn bereid om meer uit te geven. Afgelopen jaren zien we trend die expansief groeit (zie google trends). Er is een tak van BIO niche die we zien snel groeien. IKEA heeft hierop al gespeeld, maar er is genoeg vraag om ernaast producten te gaan producten zoals pbio planten zaden.
 Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen maken is het volgende: een vergelijkingswebsite op gebied van binnen kweken en alles wat erbij hoort. 
 
