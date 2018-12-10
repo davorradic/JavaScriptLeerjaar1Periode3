@@ -91,7 +91,13 @@ Activiteiten week 8
 > In de projectweek wordt van hun verwacht om aan de hand van de casus opdracht te kunnen uitvoeren. Studenten van Applicatie Ontwikkeling en Media Design zullen samenwerken om beroepspraktijk te simuleren. Applicatie ontwikkelaars zullen aan de begin van 8ste week een design ontvangen om dit in codes te kunnen omzetten.
 
 #### CASUS:
-Duurzaamheid is de topic van onze tijd. Bio producten worden op prijs gesteld en mensen zijn bereid om meer uit te geven. Afgelopen jaren zien we trend die expansief groeit (zie google trends). Er is een tak van BIO niche die we zien snel groeien. IKEA heeft hierop al gespeeld, maar er is genoeg vraag om ernaast producten te gaan producten zoals pbio planten zaden.
+> Duurzaamheid is een breed begrip, maar het komt er in het kort op neer dat in een duurzame wereld mens (people), milieu (planet) en economie (profit) met elkaar in evenwicht zijn, zodat we de aarde niet uitputten.
+
+Bedrijf "hello people planet profit" (bedacht) wil in de niche BIO hun bedrijf opzetten. Ze zien dat Bio producten worden op prijs gesteld en mensen zijn bereid om meer geld uit te geven om kwaliteit van hun voedsel te verhogen. Afgelopen jaren zien we trend die expansief groeit (zie google trends). 
+
+Er is een tak van BIO niche die we zien snel groeien. IKEA heeft hierop al gespeeld, als je gaat kijken naar landingspagina van Ikea [Click hier om Ikea website te bezoeken over "Binnen Kweken"](https://www.ikea.com/nl/nl/catalog/categories/departments/indoor_gardening/). Bedrijf "hello people planet profit" wil zich richten op BIO plantzaaden, maar ook producten om binnenkweken mogelijk te maken voor thuis kwekers.
+
+In het kort analyse:
 Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen maken is het volgende: een vergelijkingswebsite op gebied van binnen kweken en alles wat erbij hoort. 
 
 Mensen houden van mening van mensen die product al hebben gekocht en gebruikt (denk hierbij aan tweakers, amazon). Hier op willen we op in spelen. 
