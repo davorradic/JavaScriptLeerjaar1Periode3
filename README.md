@@ -100,7 +100,14 @@ Er is een tak van BIO niche die we zien snel groeien. IKEA heeft hierop al gespe
 In het kort analyse:
 Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen maken is het volgende: een vergelijkingswebsite op gebied van binnen kweken en alles wat erbij hoort, zoals plantzaden, grond, licht ect. 
 
-> TIP: om snel te zien of we koop zoekwoorden hebben gekozen, kijk in google of er advertenties zijn aanwezig als je "binnen kweken" zoekt. Voor desbetreffende zoektermen wil bedrijf gevonden worden bij de zoek machines zoals Google, Bing, Yahoo enz. Plaats je zoekwoord in title, h1, h2 en in je texten. Voor meer onderzoek naar zoekmachine optimalisatie zoek naar "online zoekmachine optimalisatie". Voor ontdekken van zoekwoorden, maak account bij google adwords en onderzoek hoeveel keer wordt iets gezocht en hoeveel kost een klik voor desbetreffende zoekwoord!
+> TIP: om snel te zien of we koop zoekwoorden hebben gekozen, kijk in google of er advertenties zijn aanwezig als je "binnen kweken" zoekt. Voor desbetreffende zoektermen wil bedrijf gevonden worden bij de zoek machines zoals Google, Bing, Yahoo enz. 
+
+> Plaats je gevonden zoekwoord in title, h1, h2 en in je texten. Voor meer onderzoek naar zoekmachine optimalisatie zoek naar "online zoekmachine optimalisatie". Zoek beter in het engels "Offline online SEO".
+Er zijn al paar die het goed hadden beschreven:
+1. [Verschiel tussen Online en Offline zoekmachine optimalisatie](https://blog.mktgessentials.com/the-difference-between-online-offline-seo/)
+2. [codes voor zoekmachine optimalisatie](https://neilpatel.com/blog/website-source-code-seo/)
+
+> Voor ontdekken van zoekwoorden, maak account bij google adwords en onderzoek hoeveel keer wordt iets gezocht en hoeveel kost een klik voor desbetreffende zoekwoord!
 
 Onderdeel van vergelijkingswebsite: Mensen houden van mening van mensen die product al hebben gekocht en gebruikt (denk hierbij aan tweakers, amazon). Hier op willen we op in spelen en we willen het in de website verwerkt hebben. 
 
