@@ -108,7 +108,8 @@ Onderdeel van vergelijkingswebsite: Mensen houden van mening van mensen die prod
 Bedrijf "hello people planet profit" heeft al contact gelegd met Radboud Universiteit Nijmegen en ze zijn voorberied om jullie te helpen als er vragen zijn neem contact met Davor Radic d.radic@roc-nijmegen.nl 
 Bedrijf wil geholpen worden bij onderzoek wat ze nodig hebben om mensen thuis te helpen bij het groeien van hun planten. Bedrijf wil niet alles handmatig doen en daarom hebben ze bedacht om MicroBit te gaan gebruiken en groei te optimaliseren om zo min mogelijk zelf te gaan doen. 
 
-We gaan zelf een plant laten groeien. We kopen een zaad van een bepaald merk en we gaan kijken hoe we plant met behulp van MicroBit kunnen optimale groei kunnen geven. Met MicroBit kunnen we volgende meten: temperatuur, grondvochtigheid, licht. Aan de hand van sensoren van grondvochtigheid kunnen we bepalen wanneer water kan toegevoegd worden. Dit gaan we alles loggen en uiteindelijk platsen op de website als bewijs voor kopers of het wel of niet heeft gewerkt.
+Stap 1:
+We kopen een zaad van een bepaald merk en we gaan kijken hoe we plant met behulp van MicroBit kunnen optimale groei kunnen geven. Met MicroBit kunnen we volgende meten: temperatuur, grondvochtigheid, licht. Aan de hand van sensoren van grondvochtigheid kunnen we bepalen wanneer water kan toegevoegd worden. Dit gaan we alles loggen en uiteindelijk platsen op de website als bewijs voor kopers of het wel of niet heeft gewerkt.
 
 
 Aan alle studenten: Heb je betere idee, deel met je team en opdrachtgever. 
