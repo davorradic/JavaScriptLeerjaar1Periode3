@@ -98,7 +98,7 @@ Bedrijf "hello people planet profit" (bedacht) wil in de niche BIO hun bedrijf o
 Er is een tak van BIO niche die we zien snel groeien. IKEA heeft hierop al gespeeld, als je gaat kijken naar landingspagina van Ikea [Click hier om Ikea website te bezoeken over "Binnen Kweken"](https://www.ikea.com/nl/nl/catalog/categories/departments/indoor_gardening/). Bedrijf "hello people planet profit" wil zich richten op BIO plantzaaden, maar ook producten om binnenkweken mogelijk te maken voor thuis kwekers.
 
 In het kort analyse:
-Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen maken is het volgende: een vergelijkingswebsite op gebied van binnen kweken en alles wat erbij hoort. 
+Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen maken is het volgende: een vergelijkingswebsite op gebied van binnen kweken en alles wat erbij hoort, zoals plantzaden, grond, licht ect. 
 
 Mensen houden van mening van mensen die product al hebben gekocht en gebruikt (denk hierbij aan tweakers, amazon). Hier op willen we op in spelen. 
 
