@@ -100,6 +100,8 @@ Er is een tak van BIO niche die we zien snel groeien. IKEA heeft hierop al gespe
 In het kort analyse:
 Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen maken is het volgende: een vergelijkingswebsite op gebied van binnen kweken en alles wat erbij hoort, zoals plantzaden, grond, licht ect. 
 
+> TIP: om snel te zien of we koop zoekwoorden hebben gekozen, kijk in google of er advertenties zijn aanwezig als je "binnen kweken" zoekt.
+
 Mensen houden van mening van mensen die product al hebben gekocht en gebruikt (denk hierbij aan tweakers, amazon). Hier op willen we op in spelen. 
 
 ##### Idee 1: 
