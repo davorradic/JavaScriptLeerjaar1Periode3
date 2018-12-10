@@ -88,11 +88,7 @@ Activiteiten week 8
 > “De ontwikkelaar levert als beroepsresultaat een goed werkende applicatie, media-uiting of game(onderdeel) op, welke aan alle met de opdrachtgever overeengekomen eisen voldoet.”
 [SBB Kwalificatie dossier Applicatie- en mediaontwikkelaar](https://kwalificaties.s-bb.nl/Details/Index/2883?type=kwalificatie&item_id=1008212 "KD - AO")
 ##### Verwachtingen strudenten van AO
-> In de projectweek wordt van hun verwacht om aan de hand van de casus opdracht te kunnen uitvoeren. Studenten van Applicatie Ontwikkeling en Media Design zullen samenwerken om beroepspraktijk te simuleren. Applicatie ontwikkelaars zullen aan de begin van 8ste week een design ontvangen om dit in codes te kunnen omzetten. 
-
-Activiteiten week 9
-1.	Open map Opdracht9_PROJECT_WEEK Bestudeer casus en maak opdracht in groepjes van min 2 en max 4 studenten.
-2.	Presentatie van de project.
+> In de projectweek wordt van hun verwacht om aan de hand van de casus opdracht te kunnen uitvoeren. Studenten van Applicatie Ontwikkeling en Media Design zullen samenwerken om beroepspraktijk te simuleren. Applicatie ontwikkelaars zullen aan de begin van 8ste week een design ontvangen om dit in codes te kunnen omzetten.
 
 #### CASUS:
 Duurzaamheid is de topic van onze tijd. Bio producten worden op prijs gesteld en mensen zijn bereid om meer uit te geven. Afgelopen jaren zien we trend die expansief groeit (zie google trends). Er is een tak van BIO niche die we zien snel groeien. IKEA heeft hierop al gespeeld, maar er is genoeg vraag om ernaast producten te gaan producten zoals pbio planten zaden.
