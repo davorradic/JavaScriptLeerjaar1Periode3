@@ -85,8 +85,11 @@ Activiteiten week 8
 
 ### Opdracht 9 _PROJECT_WEEK 
 Week 9
-“De ontwikkelaar levert als beroepsresultaat een goed werkende applicatie, media-uiting of game(onderdeel) op, welke aan alle met de opdrachtgever overeengekomen eisen voldoet.” (SBB, 2018)
-In de projectweek wordt van hun verwacht om aan de hand van de casus opdracht te kunnen uitvoeren. Studenten van Applicatie Ontwikkeling en Media Design zullen samenwerken om beroepspraktijk te simuleren. Applicatie ontwikkelaars zullen aan de begin van 8ste week een design ontvangen om dit in codes te kunnen omzetten. 
+
+> “De ontwikkelaar levert als beroepsresultaat een goed werkende applicatie, media-uiting of game(onderdeel) op, welke aan alle met de opdrachtgever overeengekomen eisen voldoet.”
+[SBB Kwalificatie dossier Applicatie- en mediaontwikkelaar](https://kwalificaties.s-bb.nl/Details/Index/2883?type=kwalificatie&item_id=1008212 "KD - AO")
+##### Verwachtingen strudenten van AO
+> In de projectweek wordt van hun verwacht om aan de hand van de casus opdracht te kunnen uitvoeren. Studenten van Applicatie Ontwikkeling en Media Design zullen samenwerken om beroepspraktijk te simuleren. Applicatie ontwikkelaars zullen aan de begin van 8ste week een design ontvangen om dit in codes te kunnen omzetten. 
 
 Activiteiten week 9
 1.	Open map Opdracht9_PROJECT_WEEK Bestudeer casus en maak opdracht in groepjes van min 2 en max 4 studenten.
