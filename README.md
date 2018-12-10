@@ -32,29 +32,66 @@ Activiteiten week 2
 2.	Open map opdracht2 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 3
-1. Bestudeer uit boek hoofdstuk 2 "Functies Arrays Objects" + Hoofdstuk 7 manipulating DOM
-2. Open map opdracht3 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
+Leerdoelen week 3
+Aan het einde van het week 3 kunnen studenten Arrays begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze functies, arrays en objects kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
+
+Activiteiten week 3
+1.	Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
+2.	Open map opdracht3 en lees casus in de bestand main.js. 
 
 ### Opdracht 4
-1. Bestudeer uit boek hoofdstuk 2 "Voorwaardelijke statments en programmaloop"
-2. Open map opdracht4 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
+Leerdoelen week 4
+Aan het einde van het week 4 kunnen studenten Objects begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze objects kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
+
+Activiteiten week 4
+1.	Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
+2.	Open map opdracht3 en lees casus in de bestand main.js. 
 
 ### Opdracht 5
-1. Bestudeer uit boek hoofdstuk 2 "Javascript events en events handelars"
-2. Open map opdracht5 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
+Leerdoelen week 5
+Aan het einde van het week 5 kunnen studenten verdiepen in Objects begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze objects kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
+
+Activiteiten week 5
+1.	Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
+2.	Open map opdracht5 en lees casus in de bestand main.js. 
+
 
 ### Opdracht 6
-1. Bestudeer uit boek hoofdstuk 2 "Werken met DOM"
-2. Open map opdracht5 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
+Leerdoelen week 6
+Aan het einde van het week 6 kunnen studenten voorwaardelijke statments en programmaloop
+begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze Voorwaardelijke statements en programmaloop kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
+
+Activiteiten week 6
+1.	Bestudeer hoofdstuk 5 voorwaardelijke statments en programmaloop + Hoofdstuk 7 manipulating DOM
+2.	Open map opdracht6 en lees casus in de bestand main.js. 
 
 ### Opdracht 7
-Website testen in alle mogelijke (FireFox, Chrome, Internet explorer, Internet edge, mobile) browsers
+Leerdoelen week 7
+Aan het einde van het week 6 kunnen studenten zicht verdiepen op voorwaardelijke statments en programmaloop
+begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze Voorwaardelijke statements en programmaloop kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
-Pull JSON file van FireBase en zet het in de website
+Activiteiten week 7
+1.	Bestudeer hoofdstuk 5 voorwaardelijke statments en programmaloop + Hoofdstuk 7 manipulating DOM
+2.	Open map opdracht7 en lees casus in de bestand main.js. 
 
 ### Opdracht 8
+Leerdoelen week 8
+Aan het einde van het week 8 kunnen studenten events en events ‘’handelar’’
+begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze events en events handelar en programmaloop kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
-### Project week
+Activiteiten week 8
+1.	Bestudeer hoofdstuk 5 voorwaardelijke statments en programmaloop + Hoofdstuk 7 manipulating DOM
+2.	Open map opdracht8 en lees casus in de bestand main.js. 
+
+### Opdracht 9 _PROJECT_WEEK 
+Week 9
+“De ontwikkelaar levert als beroepsresultaat een goed werkende applicatie, media-uiting of game(onderdeel) op, welke aan alle met de opdrachtgever overeengekomen eisen voldoet.” (SBB, 2018)
+In de projectweek wordt van hun verwacht om aan de hand van de casus opdracht te kunnen uitvoeren. Studenten van Applicatie Ontwikkeling en Media Design zullen samenwerken om beroepspraktijk te simuleren. Applicatie ontwikkelaars zullen aan de begin van 8ste week een design ontvangen om dit in codes te kunnen omzetten. 
+
+Activiteiten week 9
+1.	Open map Opdracht9_PROJECT_WEEK Bestudeer casus en maak opdracht in groepjes van min 2 en max 4 studenten.
+2.	Presentatie van de project.
+
 CASUS:
 Duurzaamheid is de topic van onze tijd. Bio producten worden op prijs gesteld en mensen zijn bereid om meer uit te geven. Afgelopen jaren zien we trend die expansief groeit (zie google trends). Er is een tak van BIO niche die we zien snel groeien. IKEA heeft hierop al gespeeld, maar er is genoeg vraag om ernaast producten te gaan producten zoals pbio planten zaden.
 Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen maken is het volgende: een vergelijkingswebsite op gebied van binnen kweken en alles wat erbij hoort. 
