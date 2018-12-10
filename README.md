@@ -97,7 +97,7 @@ Bedrijf "hello people planet profit" (fictief) wil in de niche BIO hun bedrijf o
 
 > Er is een tak van BIO niche die we zien snel groeien. 
 
-![alt text](https://github.com/davorradic/JavaScriptLeerjaar1Periode3/raw/master/images/Ikea-Logo.jpg "Logo Title Text 2")
+![alt text](https://github.com/davorradic/JavaScriptLeerjaar1Periode3/raw/master/images/Ikea-Logo.jpg "Ikea Logo")
 
 >IKEA heeft hierop al gespeeld, als je gaat kijken naar landingspagina van Ikea [Klik hier om Ikea website te bezoeken over "Binnen Kweken"](https://www.ikea.com/nl/nl/catalog/categories/departments/indoor_gardening/). Bedrijf "hello people planet profit" wil zich richten op BIO plantzaaden, maar ook producten om binnenkweken mogelijk te maken voor thuis kwekers.
 
