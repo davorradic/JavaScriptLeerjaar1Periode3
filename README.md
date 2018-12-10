@@ -111,11 +111,11 @@ Bedrijf wil geholpen worden bij onderzoek wat ze nodig hebben om mensen thuis te
 Stap 1:
 We kopen een zaad van een bepaald merk en we gaan kijken hoe we plant met behulp van MicroBit kunnen optimale groei kunnen geven. Met MicroBit kunnen we volgende meten: temperatuur, grondvochtigheid, licht. Aan de hand van sensoren van grondvochtigheid kunnen we bepalen wanneer water kan toegevoegd worden. Dit gaan we alles loggen en uiteindelijk platsen op de website als bewijs voor kopers of het wel of niet heeft gewerkt.
 
-
+Stap 2:
 Aan alle studenten: Heb je betere idee, deel met je team en opdrachtgever. 
 
-Aan de studenten van Media Design opdracht: Maak responsief design van vergelijkingswebsite. 
-
+Stap 3:
+Aan de studenten van Media Design opdracht: Maak responsief design van vergelijkingswebsite.
 Aan de studenten van Applicatie Ontwikkeling: Je ontvangt design van media design en zet het om naar de codes zodat je html & CSS & Javascript. Ondertussen laat je je plant grioeen met behulp van MicroBit en log alle datas. Datas willen we terug laten komen bij het review van de product.
 
 #### MicroBit introductie
