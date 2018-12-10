@@ -102,9 +102,12 @@ Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen
 
 > TIP: om snel te zien of we koop zoekwoorden hebben gekozen, kijk in google of er advertenties zijn aanwezig als je "binnen kweken" zoekt. Voor desbetreffende zoektermen wil bedrijf gevonden worden bij de zoek machines zoals Google, Bing, Yahoo enz. Plaats je zoekwoord in title, h1, h2 en in je texten. Voor meer onderzoek naar zoekmachine optimalisatie zoek naar "online zoekmachine optimalisatie". Voor ontdekken van zoekwoorden, maak account bij google adwords en onderzoek hoeveel keer wordt iets gezocht en hoeveel kost een klik voor desbetreffende zoekwoord!
 
-Mensen houden van mening van mensen die product al hebben gekocht en gebruikt (denk hierbij aan tweakers, amazon). Hier op willen we op in spelen. 
+Onderdeel van vergelijkingswebsite: Mensen houden van mening van mensen die product al hebben gekocht en gebruikt (denk hierbij aan tweakers, amazon). Hier op willen we op in spelen en we willen het in de website verwerkt hebben. 
 
-##### Idee 1: 
+##### Eigen review maken: 
+Bedrijf "hello people planet profit" heeft al contact gelegd met Radboud Universiteit Nijmegen en ze zijn voorberied om jullie te helpen als er vragen zijn neem contact met Davor Radic d.radic@roc-nijmegen.nl 
+Bedrijf wil geholpen worden bij onderzoek wat ze nodig hebben om mensen thuis te helpen bij het groeien van hun planten. Bedrijf wil niet alles handmatig doen en daarom hebben ze bedacht om MicroBit te gaan gebruiken en groei te optimaliseren om zo min mogelijk zelf te gaan doen. 
+
 We gaan zelf een plant laten groeien. We kopen een zaad van een bepaald merk en we gaan kijken hoe we plant met behulp van MicroBit kunnen optimale groei kunnen geven. Met MicroBit kunnen we volgende meten: temperatuur, grondvochtigheid, licht. Aan de hand van sensoren van grondvochtigheid kunnen we bepalen wanneer water kan toegevoegd worden. Dit gaan we alles loggen en uiteindelijk platsen op de website als bewijs voor kopers of het wel of niet heeft gewerkt.
 
 
