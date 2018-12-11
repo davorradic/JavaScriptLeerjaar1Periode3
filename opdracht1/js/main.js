@@ -8,6 +8,7 @@ Activiteiten week 1
 */
 console.log("test");
 var Pa$$word = 'plantenzaad'
+console.log(Pa$$word);
 var nummer = 2;
 var string = "1";
 console.log(nummer + string); //string plus string. Mogelijk?
