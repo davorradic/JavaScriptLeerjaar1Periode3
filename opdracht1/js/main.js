@@ -1,5 +1,8 @@
-/* Bestudeer theorie uit boek: hoofdstuk 1 en probeer als eerst alle bugs uit te halen.
-Daarna maak onderstaande opdrachten.
+/*
+Activiteiten week 1
+1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) hoofdstuk 1 "Statements, gegevenstypen, variabelen"
+2.	Open index.html in de map opdracht1 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
+
 */
 console.log("test");
 var Pa$$word = 'plantenzaad'
