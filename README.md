@@ -28,7 +28,7 @@ Leerdoelen week 2
 Aan het einde van het week 2 kunnen studenten operatoren begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden, zodat ze zelf begrijpen hoe ze operatoren kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
 Activiteiten week 2
-1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) hoofdstuk 3 "Operatoren"
+1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) **hoofdstuk** 3 "*Operatoren*"
 2.	Open map opdracht2 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 3
@@ -36,7 +36,7 @@ Leerdoelen week 3
 Aan het einde van het week 3 kunnen studenten Arrays begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze functies, arrays en objects kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
 Activiteiten week 3
-1.	Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
+1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) **hoofdstuk 4** "*Functies Arrays Objects + Hoofdstuk 7 manipulating DOM*"
 2.	Open map opdracht3 en lees casus in de bestand main.js. 
 
 ### Opdracht 4
@@ -44,7 +44,7 @@ Leerdoelen week 4
 Aan het einde van het week 4 kunnen studenten Objects begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze objects kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
 Activiteiten week 4
-1.	Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
+1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) **hoofdstuk 4** "*Functies Arrays Objects + Hoofdstuk 7 manipulating DOM*"
 2.	Open map opdracht3 en lees casus in de bestand main.js. 
 
 ### Opdracht 5
@@ -52,7 +52,7 @@ Leerdoelen week 5
 Aan het einde van het week 5 kunnen studenten verdiepen in Objects begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze objects kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
 Activiteiten week 5
-1.	Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
+1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) **hoofdstuk 4** "*Functies Arrays Objects + Hoofdstuk 7 manipulating DOM*"
 2.	Open map opdracht5 en lees casus in de bestand main.js. 
 
 
@@ -62,7 +62,7 @@ Aan het einde van het week 6 kunnen studenten voorwaardelijke statments en progr
 begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze Voorwaardelijke statements en programmaloop kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
 Activiteiten week 6
-1.	Bestudeer hoofdstuk 5 voorwaardelijke statments en programmaloop + Hoofdstuk 7 manipulating DOM
+1.	Bestudeer (Basis Javascript & Jquery ISBN: 9789059409156) **hoofdstuk 5** "*voorwaardelijke statments en programmaloop + Hoofdstuk 7 manipulating DOM*"
 2.	Open map opdracht6 en lees casus in de bestand main.js. 
 
 ### Opdracht 7
@@ -71,16 +71,16 @@ Aan het einde van het week 6 kunnen studenten zicht verdiepen op voorwaardelijke
 begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze Voorwaardelijke statements en programmaloop kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
 Activiteiten week 7
-1.	Bestudeer hoofdstuk 5 voorwaardelijke statments en programmaloop + Hoofdstuk 7 manipulating DOM
+1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) **hoofdstuk 5** "*voorwaardelijke statments en programmaloop + Hoofdstuk 7 manipulating DOM*"
 2.	Open map opdracht7 en lees casus in de bestand main.js. 
 
 ### Opdracht 8
 Leerdoelen week 8
-Aan het einde van het week 8 kunnen studenten events en events ‘’handelar’’
+Aan het einde van het week 8 kunnen studenten events en events "handelar"
 begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden bij Javascript, zodat ze zelf begrijpen hoe ze events en events handelar en programmaloop kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
 Activiteiten week 8
-1.	Bestudeer hoofdstuk 5 voorwaardelijke statments en programmaloop + Hoofdstuk 7 manipulating DOM
+1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) **hoofdstuk 5** "*voorwaardelijke statments en programmaloop + Hoofdstuk 7 manipulating DOM*"
 2.	Open map opdracht8 en lees casus in de bestand main.js. 
 
 ### Opdracht 9 _PROJECT_WEEK Week 9
