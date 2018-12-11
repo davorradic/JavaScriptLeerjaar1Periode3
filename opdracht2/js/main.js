@@ -1,4 +1,12 @@
-/* opdracht 2 */
+/* opdracht 2 
+
+Activiteiten week 2
+1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156):
+    - hoofdstuk 1 "Operatoren";
+    - hoofdstuk 2 "Werken met DOM";
+2.	Open map opdracht2 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
+
+*/
 
 /* Operators
 

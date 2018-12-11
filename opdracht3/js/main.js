@@ -1,5 +1,9 @@
 /* opdracht 3
-Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
+
+Activiteiten week 3
+1.	Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
+2.	Open map opdracht3 en lees casus in de bestand main.js.
+
 */
 
 /*

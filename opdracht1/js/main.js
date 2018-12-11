@@ -1,6 +1,8 @@
 /*
 Activiteiten week 1
-1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) hoofdstuk 1 "Statements, gegevenstypen, variabelen"
+1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156):
+    - hoofdstuk 1 "Statements, gegevenstypen, variabelen";
+    - hoofdstuk 2 "Werken met DOM";
 2.	Open index.html in de map opdracht1 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 */
