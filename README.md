@@ -20,7 +20,7 @@ Leerdoel week 1
 Aan het einde van het week 1 kunnen studenten statements, gegevenstypen en variabelen begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden, zodat ze zelf begrijpen hoe ze statements, gegevenstypen en variabelen kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
 Activiteiten week 1
-1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) hoofdstuk 1 "Statements, gegevenstypen, variabelen"
+1.	Bestudeer uit boek (Basis Javascript & Jquery ISBN: 9789059409156) hoofdstuk 2 "Statements, gegevenstypen, variabelen"
 2.	Open map opdracht1 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 2
@@ -28,7 +28,7 @@ Leerdoelen week 2
 Aan het einde van het week 2 kunnen studenten operatoren begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden, zodat ze zelf begrijpen hoe ze operatoren kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
 
 Activiteiten week 2
-1.	Bestudeer uit boek hoofdstuk 2 "Operatoren"
+1.	Bestudeer uit boek hoofdstuk 3 "Operatoren"
 2.	Open map opdracht2 in browser, haal alle bugs eruit en maak alle aangegeven opdrachten in main.js
 
 ### Opdracht 3
