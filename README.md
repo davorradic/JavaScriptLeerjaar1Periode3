@@ -87,53 +87,54 @@ Activiteiten week 8
 
 > “De ontwikkelaar levert als beroepsresultaat een goed werkende applicatie, media-uiting of game(onderdeel) op, welke aan alle met de opdrachtgever overeengekomen eisen voldoet.”
 [SBB Kwalificatie dossier Applicatie- en mediaontwikkelaar](https://kwalificaties.s-bb.nl/Details/Index/2883?type=kwalificatie&item_id=1008212 "KD - AO")
+
 ##### Verwachtingen strudenten van AO
-> In de projectweek wordt van hun verwacht om aan de hand van de casus opdracht te kunnen uitvoeren. Studenten van Applicatie Ontwikkeling en Media Design zullen samenwerken om beroepspraktijk te simuleren. Applicatie ontwikkelaars zullen aan de begin van 8ste week een design ontvangen om dit in codes te kunnen omzetten.
+> In de projectweek wordt van hun verwacht om aan de hand van de casus opdrachten te kunnen uitvoeren. Studenten van Applicatie Ontwikkeling en Media Design zullen samenwerken om beroepspraktijk te simuleren. Applicatie ontwikkelaars zullen aan het begin van de 8ste week een design ontvangen om dit in codes te kunnen omzetten.
 
 #### CASUS:
 > Duurzaamheid is een breed begrip, maar het komt er in het kort op neer dat in een duurzame wereld mens (people), milieu (planet) en economie (profit) met elkaar in evenwicht zijn, zodat we de aarde niet uitputten.
 
-Bedrijf "hello people planet profit" (fictief) wil in de niche BIO hun bedrijf opzetten. Ze zien dat Bio producten worden op prijs gesteld en mensen zijn bereid om meer geld uit te geven om kwaliteit van hun voedsel te verhogen. Afgelopen jaren zien we trend die expansief groeit (zie google trends). 
+Bedrijf "hello people planet profit" (fictief) wil in de niche BIO hun bedrijf opzetten. Ze zien dat Bio producten worden op prijs gesteld en mensen zijn bereid om meer geld uit te geven om kwaliteit van hun voedsel te verhogen. Afgelopen jaren zien we dat de trend expansief groeit (zie google trends). 
 
 > Er is een tak van BIO niche die we zien snel groeien. 
 
 ![alt text](https://github.com/davorradic/JavaScriptLeerjaar1Periode3/raw/master/images/Ikea-Logo.jpg "Ikea Logo")
 
->IKEA heeft hierop al gespeeld, als je gaat kijken naar landingspagina van Ikea [Klik hier om Ikea website te bezoeken over "Binnen Kweken"](https://www.ikea.com/nl/nl/catalog/categories/departments/indoor_gardening/). Bedrijf "hello people planet profit" wil zich richten op BIO plantzaaden, maar ook producten om binnenkweken mogelijk te maken voor thuis kwekers.
+>IKEA heeft hierop al ingespeeld, als je gaat kijken naar landingspagina van Ikea [Klik hier om Ikea website te bezoeken over "Binnen Kweken"](https://www.ikea.com/nl/nl/catalog/categories/departments/indoor_gardening/). Bedrijf "hello people planet profit" wil zich richten op BIO plantzaaden, maar ook producten om binnenkweken mogelijk te maken voor thuis kwekers.
 
 In het kort analyse:
-Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen maken is het volgende: een vergelijkingswebsite op gebied van binnen kweken en alles wat erbij hoort, zoals plantzaden, grond, licht ect. 
+Niche heeft duidelijk groei en hoofd zoekterm is: "binnen kweken". Wat we willen maken is het volgende: een vergelijkingswebsite met reviews op gebied van binnen kweken en alles wat erbij hoort, zoals plantzaden, grond, licht ect. 
 
-> TIP: om snel te zien of we koop zoekwoorden hebben gekozen, kijk in google of er advertenties zijn aanwezig als je "binnen kweken" zoekt. Voor desbetreffende zoektermen wil bedrijf gevonden worden bij de zoek machines zoals Google, Bing, Yahoo enz. 
+> TIP: om snel te zien of we winstgevende zoekwoorden hebben gekozen, kijk in google of er advertenties aanwezig zijn, als je "binnen kweken" zoekt. Voor desbetreffende zoektermen wil het bedrijf gevonden worden, bij de zoek machines zoals Google, Bing, Yahoo enz. 
 
-> Plaats je gevonden zoekwoord in title, h1, h2 en in je texten. Voor meer onderzoek naar zoekmachine optimalisatie zoek naar "online zoekmachine optimalisatie". Zoek beter in het engels "Offline online SEO".
+> Plaats je gevonden zoekwoord in `<title>`, `<h1>`, `<h2>` en in je texten. Voor meer onderzoek naar zoekmachine optimalisatie zoek naar "online zoekmachine optimalisatie". Zoek beter in het engels "Offline online SEO".
 Er zijn al paar die het goed hadden beschreven:
-1. [Verschiel tussen Online en Offline zoekmachine optimalisatie](https://blog.mktgessentials.com/the-difference-between-online-offline-seo/)
+1. [Verschil tussen ONLINE en OFFLINE zoekmachine optimalisatie](https://blog.mktgessentials.com/the-difference-between-online-offline-seo/)
 2. [codes voor zoekmachine optimalisatie](https://neilpatel.com/blog/website-source-code-seo/)
 
-> Voor ontdekken van zoekwoorden, maak account bij google adwords en onderzoek hoeveel keer wordt iets gezocht en hoeveel kost een klik voor desbetreffende zoekwoord!
+> Voor het ontdekken van zoekwoorden, maak een account aan bij Google Adwords en onderzoek hoeveel keer iets wordt gezocht en hoeveel kost een klik voor het desbetreffende zoekwoord.
 
-Onderdeel van vergelijkingswebsite: Mensen houden van mening van mensen die product al hebben gekocht en gebruikt (denk hierbij aan tweakers, amazon). Hier op willen we op in spelen en we willen het in de website verwerkt hebben. 
+Reviews zijn een onderdeel van de vergelijkingswebsite. Aanstaande kopers vinden het prettig om de ervaring van andere kopers te lezen/ bekijken (denk hierbij aan Tweakers, Amazon). Aanstande kopers zoeken argumenten voor de beste koop. Hierop willen we inspelen en we willen het in de website verwerkt hebben. 
 
 ##### Eigen review maken: 
-Bedrijf "hello people planet profit" heeft al contact gelegd met Radboud Universiteit Nijmegen en ze zijn voorberied om jullie te helpen als er vragen zijn neem contact met Davor Radic d.radic@roc-nijmegen.nl (Dit is echt en niet fictief)
-Bedrijf wil geholpen worden bij onderzoek wat ze nodig hebben om mensen thuis te helpen bij het groeien van hun planten. Bedrijf wil niet alles handmatig doen en daarom hebben ze bedacht om MicroBit te gaan gebruiken en groei te optimaliseren om zo min mogelijk zelf te gaan doen. 
+Het bedrijf "hello people planet profit" heeft al contact gelegd met Radboud Universiteit Nijmegen en ze zijn voorbereid om jullie te helpen. Als er vragen zijn, neem contact op met Davor Radic d.radic@roc-nijmegen.nl (Dit is echt en niet fictief)
+Dit bedrijf wil geholpen worden bij het onderzoek; Wat ze nodig hebben om mensen thuis te helpen bij het groeien van hun planten. Dit bedrijf wil niet alles handmatig doen en daarom hebben ze bedacht om BBC Micro:Bit te gaan gebruiken en groei te optimaliseren en dus te automatiseren. 
 
 Stap 1:
-We kopen een plantzaad van een bepaald merk en we gaan kijken hoe we plant met behulp van MicroBit kunnen optimale groei kunnen geven. Met MicroBit kunnen we volgende meten: temperatuur, grondvochtigheid, licht. Aan de hand van sensoren van grondvochtigheid kunnen we bepalen wanneer water kan toegevoegd worden. Dit gaan we alles loggen en uiteindelijk platsen op de website als bewijs voor kopers of het wel of niet heeft gewerkt.
+We kopen een plantzaad van een bepaald merk en we gaan kijken hoe we de plant een optimale groei kunnen geven met behulp van MicroBit. Met MicroBit kunnen we het volgende meten: temperatuur, grondvochtigheid en licht. Aan de hand van sensoren van grondvochtigheid kunnen we bepalen wanneer er water kan worden toegevoegd. Dit gaan we allemaal loggen en uiteindelijk plaatsen op de website als bewijs voor kopers of het wel of niet heeft gewerkt.
 
 Stap 2:
-Aan alle studenten: Heb je betere idee, deel met je team en opdrachtgever. 
+Aan alle studenten: Heb je een beter idee, deel he met je team en opdrachtgever. 
 
 Stap 3:
-Aan de studenten van Media Design opdracht: Maak responsief design van vergelijkingswebsite.
-Aan de studenten van Applicatie Ontwikkeling: Je ontvangt design van media design en zet het om naar de codes zodat je html & CSS & Javascript. Ondertussen laat je je plant grioeen met behulp van MicroBit en log alle datas. Datas willen we terug laten komen bij het review van de product.
+Aan de studenten van Media Design opdracht: Maak een responsief design van een vergelijkingswebsite.
+Aan de studenten van Applicatie Ontwikkeling: Je ontvangt design van media design en zet het om naar de codes zodat je html & CSS & Javascript gebruikt. Ondertussen laat je je plant groeien met behulp van MicroBit en log alle mogelijke data. De data willen we laten terugkomen bij een review van het product.
 
 #### MicroBit introductie
 Acties:
-- maak groepen van twee
-- neem per groep een MicroBit
-- bedenk plan hoe je met behulp van MicroBit van zaad tot plant optimaal laten groeien (via Trello plan laten zien)
+- maak groepen van twee;
+- neem per groep een MicroBit;
+- bedenk een plan; hoe je met behulp van MicroBit van zaad tot plant optimaal kunt laten groeien (via Trello plan laten zien);
 
 #### Materialen:
 - MicroBit
