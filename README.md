@@ -6,6 +6,7 @@
 Download project op je machine. Hiervoor heb je drie opties:
 1. Eerste optie:
 Download zip bestand van deze repository
+![alt text](https://github.com/davorradic/JavaScriptLeerjaar1Periode3/raw/master/images/downloadzipfromgithub.gif "download zip from github")
 
 2. Tweede optie:
 Download via GitHub Desktop versie
