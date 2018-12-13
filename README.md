@@ -6,10 +6,9 @@
 Download project op je machine. Hiervoor heb je drie opties:
 1. Eerste optie:
 Download zip bestand van deze repository
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9eja8CeFVSo
+><a href="http://www.youtube.com/watch?feature=player_embedded&v=9eja8CeFVSo
 " target="_blank"><img src="http://img.youtube.com/vi/9eja8CeFVSo/1.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
->[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/9eja8CeFVSo/1.jpg)](http://www.youtube.com/watch?v=9eja8CeFVSo)
+alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 
 2. Tweede optie:
 Download via GitHub Desktop versie
