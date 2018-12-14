@@ -18,6 +18,14 @@ Download via GitHub Desktop versie
 
 Van elk map OpdrachtX (opdracht1, opdracht2, opdracht3...) open index.html in je browser (Chrome, Firefox, Opera...) en haal alle bugs eruit (maak gebruik van inspect element).
 
+### Opdracht 0
+Leerdoel week 0
+Je bent al in staat om JavaScript in HTML te embedden en dat je weet wat console.log() doet en ook alert().
+
+Activiteiten week 0
+1. Open map Opdracht0 en kijk hoe JavaScript bestand main.js is embedded aan index.html
+2. Open index.html en open inspect element console tab en zie wat daar uit komt en waar komt het vandaan.
+
 ### Opdracht 1
 Leerdoel week 1
 Aan het einde van het week 1 kunnen studenten statements, gegevenstypen en variabelen begrijpen en toepassen, waardoor ze leren werken met basis vaardigheden, zodat ze zelf begrijpen hoe ze statements, gegevenstypen en variabelen kunnen aanmaken en kunnen gebruiken bij hun Javascript programma.
