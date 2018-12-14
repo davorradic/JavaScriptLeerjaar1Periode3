@@ -6,7 +6,7 @@
 Download project op je machine. Hiervoor heb je drie opties:
 1. Eerste optie:
 Download zip bestand van deze repository
-><a href="http://www.youtube.com/watch?feature=player_embedded&v=9eja8CeFVSo
+><a href="https://github.com/davorradic/JavaScriptLeerjaar1Periode3/raw/master/images/githubdownloadzip.png
 " target="_blank"><img src="http://img.youtube.com/vi/9eja8CeFVSo/1.jpg" 
 alt="IMAGE ALT TEXT HERE" width="120" height="90" border="10" /></a>
 
