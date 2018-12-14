@@ -20,7 +20,7 @@ Van elk map OpdrachtX (opdracht1, opdracht2, opdracht3...) open index.html in je
 
 ### Opdracht 0
 Leerdoel week 0
-Je bent al in staat om JavaScript in HTML te embedden en dat je weet wat console.log() doet en ook alert().
+Binnen 1 uur ben je al in staat om JavaScript in HTML te embedden en dat je weet wat console.log() doet en ook alert().
 
 Activiteiten week 0
 1. Open map Opdracht0 en kijk hoe JavaScript bestand main.js is embedded aan index.html
