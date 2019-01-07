@@ -29,7 +29,7 @@ https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
               ]
 Opdracht 2:
 Plaats alles uit array naar pagina rechts van de product photo.
-zie voorbeeld:
+zie hoe het zou moeten eruit zien - voorbeeld:
 https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
 https://www.kwekersvergelijk.nl/product/slim-kweken-maxi-kweekbak/
 
