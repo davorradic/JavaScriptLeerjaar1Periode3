@@ -34,14 +34,40 @@ tracking_code = '';
 console.log("tracking_code is: '" + tracking_code + "' of 11233 of 11234 of iets anders?");
 
 
-//Opdracht1: zoek online minstes 5 affiliate programmas voor verkoop van zaden!
+//Opdracht1: zoek online minstes 5 affiliate programmas voor verkoop van plantenzaden!
 //zet elk webshop in een variabele
 //print elk variabele uit onder h3 kopje "Project Details" in een li
-document.getElementById("zadenonline-nl").innerHTML = "zadenonline.nl";
+document.getElementById("zadenonline-nl").innerHTML = "zadenonline.nl"
 
 /* Opdracht2: meld je aan voor elk gevonden affliate programma en zoek je affiliate link,
-als je hebt gevonden plaats het op het zelfde manier naast shop je affliate link in.
+als je hebt gevonden, plaats het op het zelfde manier naast shop je affliate link in.
 */
 
-/* Opdracht3: Add logo van bedrijf link naast link
-*/
+/* Opdracht3:  */
+
+
+
+
+
+addlogoTosite();
+
+length_in]
+
+/** Niet aankomen!  */
+if(user){
+    var messagesRef = firebase.database().ref('opdracht1');
+    var newmessagesRef = messagesRef.push();
+    newmessagesRef.set({
+        userid: user.email,
+        email: user.uid,
+        timestamp:  Date.now()
+    });
+}
+/** Niet aankomen! 
+ * 
+ * Hoe voelt dat?
+ * Durf je het nog?
+ * Hacken?
+ * Als je gepakt wordt?
+ * boobytraps?
+ */

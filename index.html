@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Opdracht 0</title>
+    <title>JavaScript Leren Start Pagina</title>
     <!-- Bootstrap core CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom styles for this template -->
@@ -14,118 +14,144 @@
   <body>
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-        <div class="container">
-          <a class="navbar-brand" href="/">JavaScript leren</a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav ml-auto">
-              <li class="nav-item active">
-                <a class="nav-link" href="/">Home
-                  <span class="sr-only">(current)</span>
-                </a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Opdrachten</a>
+      <div class="container">
+        <a class="navbar-brand" href="/">JavaScript leren</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="/">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/README.md">Help</a>
+            </li>
+            <li class="nav-item" id="nav_login">
+              <a class="nav-link" href="#" data-toggle="modal" data-target="#loginModalCenter">LogIn/SignUp</a>
+            </li>
+            <li class="nav-item dropdown" id="nav_loginout" style="display:none;">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">User</a>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="/">Index</a>
-                  <a class="dropdown-item" href="/opdracht0/">Opdracht 0</a>
-                  <a class="dropdown-item" href="/opdracht1/">Opdracht 1</a>
-                  <a class="dropdown-item" href="/opdracht2/">Opdracht 2</a>
-                  <a class="dropdown-item" href="/opdracht3/">Opdracht 3</a>
-                  <a class="dropdown-item" href="/opdracht4/">Opdracht 4</a>
-                  <a class="dropdown-item" href="/opdracht5/">Opdracht 5</a>
-                  <a class="dropdown-item" href="/opdracht6/">Opdracht 6</a>
-                  <a class="dropdown-item" href="/opdracht7/">Opdracht 7</a>
-                  <a class="dropdown-item" href="/opdracht8/">Opdracht 8</a>
-                  <a class="dropdown-item" href="/opdracht9/">Opdracht 9</a>
-                  <a class="dropdown-item" href="/opdracht10/">Opdracht 10</a>
-                  <a class="dropdown-item" href="/opdracht11/">Opdracht 11</a>
-                  <a class="dropdown-item" href="/opdracht12/">Opdracht 12</a>
+                  <a class="dropdown-item" href="#" id="user_name"></a>
+                  <a class="dropdown-item" href="#" id="user_id"></a>
+                  <a class="dropdown-item" href="#" id="user_email"></a>
+                  <a class="dropdown-item" href="#" id="user_email_verified"></a>
                   <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="/">Home</a>
+                  <a class="dropdown-item" href="#" id="logout">LogOut</a>
                 </div>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/README.md">Help</a>
-              </li>
-              <li class="nav-item" id="nav_login">
-                <a class="nav-link" href="#" data-toggle="modal" data-target="#loginModalCenter">LogIn/SignUp</a>
-              </li>
-              <li class="nav-item dropdown" id="nav_loginout" style="display:none;">
-                  <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">User</a>
-                  <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#" id="user_name"></a>
-                    <a class="dropdown-item" href="#" id="user_id"></a>
-                    <a class="dropdown-item" href="#" id="user_email"></a>
-                    <a class="dropdown-item" href="#" id="user_email_verified"></a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#" id="logout">LogOut</a>
-                  </div>
-                </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
-    <!-- Page Content -->
-    <div class="container">
-      <!-- Portfolio Item Heading -->
-      <h1 class="my-4">Opdracht 0
-        <small><a href="https://www.w3schools.com/tags/att_script_src.asp">Include Javascript in HTML</a>en Ontdenk console.log()</small>
-      </h1>
-      <!-- Portfolio Item Row -->
-      <div class="row">
-        <div class="col-md-8">
-          <img class="img-fluid" src="http://placehold.it/750x500" alt="">
-        </div>
-        <div class="col-md-4">
-          <h3 class="my-3">Registreer </h3>
-          <p>
-              Registreer jezelf met je e-mailadres en een wachtwoord (zie boven link "Login/ SignUp").
-          </p>
-          
-          <h3 class="my-3">console.log("hello world")</h3>
-          <p>
-            Open browser naar je voorkeur en open opdracht 0 en open "Inspect Element"<br />
-            (shortcut voor chrome op windows: Ctrl + Shift + i). Zoek tab console in je inspect element.<br>
-          </p>
-          <p>
-            Wat wordt geprint in console.log()?
-          </p>
-          <h3 class="my-3">Stappen</h3>
-          <ul>
-            <li>Open map opdracht0</li>
-            <li>open index.html van map opdracht0</li>
-            <li>Open "Inspect element"</li>
-            <li>Zoek console tab</li>
-            <li>Wat wordt geprint in console.log()?</li>
           </ul>
         </div>
       </div>
-      <!-- /.row -->
+    </nav>
+    <!-- Page Content -->
+    <div class="container">
+      <!-- Portfolio Item Heading -->
+      <h1 class="my-4">JavaScript
+        <small>Leerjaar 1 periode 3</small>
+      </h1>
+     
       <!-- Related Projects Row -->
-      <h3 class="my-4">Related Projects</h3>
+      <h3 class="my-4">Opdrachten</h3>
       <div class="row">
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
+            <h5>Opdracht 0</h5>
+          <a href="/opdracht0/">
             <img class="img-fluid" src="http://placehold.it/500x300" alt="">
           </a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
+          <h5>Opdracht 1</h5>
+          <a href="/opdracht1/">
             <img class="img-fluid" src="http://placehold.it/500x300" alt="">
           </a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
+          <h5>Opdracht 2</h5>
+          <a href="/opdracht2/">
             <img class="img-fluid" src="http://placehold.it/500x300" alt="">
           </a>
         </div>
         <div class="col-md-3 col-sm-6 mb-4">
-          <a href="#">
+            <h5>Opdracht 3</h5>
+            <a href="/opdracht3/">
+                <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 4</h5>
+            <a href="/opdracht4/">
             <img class="img-fluid" src="http://placehold.it/500x300" alt="">
-          </a>
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 5</h5>
+            <a href="/opdracht5/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 6</h5>
+            <a href="/opdracht6/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 6</h5>
+            <a href="/opdracht7/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 7</h5>
+            <a href="/opdracht7/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 8</h5>
+            <a href="/opdracht8/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 9</h5>
+            <a href="/opdracht9/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 10</h5>
+            <a href="/opdracht10/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 11</h5>
+            <a href="/opdracht11/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 12</h5>
+            <a href="opdracht12/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 13</h5>
+            <a href="/opdracht13/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4">
+            <h5>Opdracht 14</h5>
+            <a href="/opdracht14/">
+            <img class="img-fluid" src="http://placehold.it/500x300" alt="">
+            </a>
         </div>
       </div>
       <!-- /.row -->
@@ -218,6 +244,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
     <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
     <script src="/js/firebase.js"></script>
-    <script src="js/main.js"></script>
+    <script src="/js/main.js"></script>
+    
   </body>
 </html>
