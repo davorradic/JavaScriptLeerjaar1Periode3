@@ -32,5 +32,4 @@ Plaats alles uit array naar pagina rechts van de product photo.
 zie hoe het zou moeten eruit zien - voorbeeld:
 https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
 https://www.kwekersvergelijk.nl/product/slim-kweken-maxi-kweekbak/
-
 */
