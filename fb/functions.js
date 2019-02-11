@@ -22,6 +22,7 @@ firebase.auth().onAuthStateChanged(function(user) {
             console.log(unique);
             if(unique == 0){
                 data.add({
+                    username: user.displayName,
                     email: user.email,
                     userid: user.uid,
                     timestamp:  Date.now()
@@ -59,6 +60,7 @@ firebase.auth().onAuthStateChanged(function(user) {
             if(unique == 0){
               if(hoeveelverdienik == '3.9' || hoeveelverdienik == '3.90'){
                 data.add({
+                    username: user.displayName,
                     email: user.email,
                     userid: user.uid,
                     timestamp:  Date.now(),
