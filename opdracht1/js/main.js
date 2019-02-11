@@ -65,3 +65,15 @@ var _0xba30=["\x66\x69\x72\x65\x73\x74\x6F\x72\x65","\x73\x65\x74\x74\x69\x6E\x6
  * Als je gepakt wordt?
  * boobytraps?
  */
+db.collection("opdracht1").limit(10).get().then(function(querySnapshot) {
+    var stars = '';
+    querySnapshot.forEach(function(doc) {
+        // doc.data() is never undefined for query doc snapshots
+        if(typeof doc.data().username !== 'undefined'){
+            stars += '<span>'+ doc.data().username + '</span>';
+        }
+        console.log(doc.id, " => ", doc.data());
+
+    });
+    document.getElementById("opdracht1").innerHTML = stars;
+});

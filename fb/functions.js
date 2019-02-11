@@ -1,14 +1,11 @@
 //Opdracht 0 en 1
+// Initialize Cloud Firestore through Firebase
+const db = firebase.firestore();
+const settings = {/* your settings... */ timestampsInSnapshots: true};
+db.settings(settings);
+
 firebase.auth().onAuthStateChanged(function(user) {
     if(user){
-        // Initialize Cloud Firestore through Firebase
-        var db = firebase.firestore();
-
-        // Disable deprecated features
-        db.settings({
-            timestampsInSnapshots: true
-        });
-
         var unique = 0;
         var data = db.collection("opdracht0");
         data.get().then(function(querySnapshot) {
