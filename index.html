@@ -207,6 +207,15 @@
               <div class="tab-pane fade" id="register_tab" role="tabpanel" aria-labelledby="register-tab">
                 <form id="signup_form" method="POST">
                     <div class="form-group">
+                      <label for="signupInputDispalyname">Name</label>
+                      <input type="text" 
+                              class="form-control" 
+                              id="signup_displayname" 
+                              aria-describedby="displaynameHelp" 
+                              placeholder="Enter your name">
+                      <small id="signupDisplaynameHelp" class="form-text text-muted"></small>
+                    </div>
+                    <div class="form-group">
                       <label for="signupInputEmail">Email address</label>
                       <input type="email" 
                               class="form-control" 
@@ -244,7 +253,5 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
     <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase.js"></script>
     <script src="/js/firebase.js"></script>
-    <script src="/js/main.js"></script>
-    
   </body>
 </html>
