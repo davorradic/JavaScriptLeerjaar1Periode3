@@ -12,7 +12,10 @@ firebase.initializeApp(config);
   firebase.auth().onAuthStateChanged(function(user) {
     if (user) {
       // User is signed in.
+      console.log(user);
+      console.log(user.displayName);
       var displayName = user.displayName;
+      console.log(displayName);
       var email = user.email;
       var emailVerified = user.emailVerified;
       var photoURL = user.photoURL;
@@ -35,6 +38,14 @@ firebase.initializeApp(config);
       $('#loginEmailHelp').html('');
       $('#loginPasswordHelp').removeClass('alert alert-danger');
       $('#loginPasswordHelp').html('');
+
+      user.providerData.forEach(function (profile) {
+        console.log("Sign-in provider: " + profile.providerId);
+        console.log("  Provider-specific UID: " + profile.uid);
+        console.log("  Name: " + profile.displayName);
+        console.log("  Email: " + profile.email);
+        console.log("  Photo URL: " + profile.photoURL);
+      });
       
     } else {
       // User is signed out.
@@ -86,10 +97,16 @@ $(function() {
 
     $("#signup_form").submit(function( event ) {
       event.preventDefault();
-      var signup_email     = $('#signup_email').val();
-      var signup_password  = $('#signup_password').val();
+      var signup_displayname  = $('#signup_displayname').val();
+      var signup_email        = $('#signup_email').val();
+      var signup_password     = $('#signup_password').val();
 
-      firebase.auth().createUserWithEmailAndPassword(signup_email, signup_password).catch(function(error) {
+      firebase.auth().createUserWithEmailAndPassword(signup_email, signup_password)
+      .then(function() {
+        console.log('user added, now update display name');
+        updateDisplayName(signup_displayname);
+      })
+      .catch(function(error) {
         let errorCode = error.code;
         let errorMessage = error.message;
         if(errorCode !== ""){
@@ -122,3 +139,16 @@ $(function() {
       });
     });
 });
+
+function updateDisplayName(displayname){
+  firebase.auth().onAuthStateChanged(function(user) {
+    if (user) {
+      // Updates the user attribute
+      user.updateProfile({
+        displayName: displayname,
+      });
+    } else {
+      
+    }
+  });
+}

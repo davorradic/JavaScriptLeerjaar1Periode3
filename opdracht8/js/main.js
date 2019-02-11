@@ -81,7 +81,8 @@
   //nu willen we datas doorlopen om inf van affiliate informaties uit te printen
   var affiliate_data = data.products.product.affiliate_details;
   var print_data = '';
-  for(var aff in data.products.product.affiliate_details ){
+  for(var aff in data.products.product.affiliate_details )
+  {
     console.log(affiliate_data[aff].product_owner_logo_url);
     console.log(affiliate_data[aff].product_price);
     console.log(affiliate_data[aff].shipping_costs);
