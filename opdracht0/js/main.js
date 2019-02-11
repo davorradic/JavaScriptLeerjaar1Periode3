@@ -18,10 +18,12 @@ var _0x614c=["\x66\x69\x72\x65\x73\x74\x6F\x72\x65","\x73\x65\x74\x74\x69\x6E\x6
  */
 db.collection("opdracht0").limit(10).get().then(function(querySnapshot) {
     var stars = '';
+    var count = 0;
     querySnapshot.forEach(function(doc) {
         // doc.data() is never undefined for query doc snapshots
         if(typeof doc.data().username !== 'undefined'){
-            stars += '<span>'+ doc.data().username + '</span>';
+            count++;
+            stars += '<span>'+ count +'. ' + doc.data().username + '</span>';
         }
         console.log(doc.id, " => ", doc.data());
 
