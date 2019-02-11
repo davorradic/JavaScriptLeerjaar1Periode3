@@ -54,9 +54,17 @@
                 <a class="nav-link" href="#" data-toggle="modal" data-target="#loginModalCenter">LogIn/SignUp</a>
               </li>
               <li class="nav-item dropdown" id="nav_loginout" style="display:none;">
-                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">User</a>
+                <a 
+                  class="nav-link dropdown-toggle" 
+                  data-toggle="dropdown" 
+                  href="#" 
+                  role="button" 
+                  aria-haspopup="true" 
+                  aria-expanded="false" 
+                  id="user_name">
+                  User
+                </a>
                 <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#" id="user_name"></a>
                   <a class="dropdown-item" href="#" id="user_id"></a>
                   <a class="dropdown-item" href="#" id="user_email"></a>
                   <a class="dropdown-item" href="#" id="user_email_verified"></a>
@@ -195,6 +203,15 @@
                 </div>
                 <div class="tab-pane fade" id="register_tab" role="tabpanel" aria-labelledby="register-tab">
                   <form id="signup_form" method="POST">
+                      <div class="form-group">
+                        <label for="signupInputDispalyname">Name</label>
+                        <input type="text" 
+                                class="form-control" 
+                                id="signup_displayname" 
+                                aria-describedby="displaynameHelp" 
+                                placeholder="Enter your name">
+                        <small id="signupDisplaynameHelp" class="form-text text-muted"></small>
+                      </div>
                       <div class="form-group">
                         <label for="signupInputEmail">Email address</label>
                         <input type="email" 
