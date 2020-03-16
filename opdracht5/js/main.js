@@ -1,5 +1,5 @@
 /* opdracht 5
-Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
+Bestudeer https://www.youtube.com/watch?v=eaLKqoB9Fu0
 */
 
 /*
@@ -30,4 +30,5 @@ Plaats alles uit Object op de pagina rechts van de product photo.
 zie voorbeeld:
 https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
 
+Wanneer ben je klaar? als je alles uit het object hebt geplaatst in de tabel in de html!
 */
