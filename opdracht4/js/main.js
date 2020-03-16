@@ -1,7 +1,3 @@
-/* opdracht 4
-Bestudeer hoofdstuk 4 Functies Arrays Objects + Hoofdstuk 7 manipulating DOM
-*/
-
 /*
 Casus: Je hebt 5 onderdelen bij een product:
 1. Logo van bedrijf (je affiliate partner)
@@ -14,7 +10,7 @@ om idee te krijgen wat we bouwen kun je live voorbeeld zien:
 https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
 
  Opdracht 1:
- Zet in een OBJECT alle informaties die boven genoemd zijn (bedrijfslogo, prijs, levertijd, verzendkosten, link naar partner).
+ Zet in een OBJECT alle informatie die boven genoemd zijn (bedrijfslogo, prijs, levertijd, verzendkosten, link naar partner).
  Voorbeeld:
  var product = {
                 product_id: '1',
@@ -27,8 +23,10 @@ https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
 
 Opdracht 2:
 Plaats alles uit Object op pagina rechts van de product photo.
-zie voorbeeld:
+zoals het voorbeeld voorbeeld:
 https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
 https://www.kwekersvergelijk.nl/product/slim-kweken-maxi-kweekbak/
 
+Tip: bij de innerhtml functie kan je dus ook object properties meegeven.
+Wanneer is het af? als je alle informatie die je gezocht hebt (opdracht 1) in de tabel hebt geplaatst & alle fouten hebt gedebugd.
 */
