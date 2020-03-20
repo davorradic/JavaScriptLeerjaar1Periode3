@@ -27,6 +27,6 @@ zoals het voorbeeld voorbeeld:
 https://www.kwekersvergelijk.nl/product/pitrus-juncus-effusus/
 https://www.kwekersvergelijk.nl/product/slim-kweken-maxi-kweekbak/
 
-Tip: bij de innerhtml functie kan je dus ook object properties meegeven.
+Tip: bij de innerhtml functie kan je dus ook object properties meegeven (product.product_id bv).
 Wanneer is het af? als je alle informatie die je gezocht hebt (opdracht 1) in de tabel hebt geplaatst & alle fouten hebt gedebugd.
 */
