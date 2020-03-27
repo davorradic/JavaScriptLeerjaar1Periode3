@@ -17,10 +17,16 @@ Maak een JSON file zie de link hieronder
 TIP: https://codepen.io/KryptoniteDove/post/load-json-file-locally-using-pure-javascript
 
 Stap 2:
+de hele grote array hieronder genaamd data is de informatie die je in je JSON bestand zet.
+
+Stap 3
+Laat de JSON file in zoals beschreven wordt op CodePen.
+
+Stap 4:
 
 Loop door de data heen zoals nu gedaan wordt alleen werk nu met een externe JSON file.
 
-Stap 3:
+Stap 5:
 
 Plaats alle informaties van affiliate_details in html (net zoals opdracht 4 & 5 (voorbeeld: https://www.kwekersvergelijk.nl/product/slim-kweken-maxi-kweekbak/)
 
